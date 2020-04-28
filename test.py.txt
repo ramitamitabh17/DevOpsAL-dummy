@@ -1,4 +1,3 @@
-print("hi")
-print("hello")
-print("hakdakc")
-print("afkjafkafkak")
+print("first")
+print("second")
+print("third")
